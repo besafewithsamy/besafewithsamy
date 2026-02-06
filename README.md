@@ -5,7 +5,9 @@
 
 ## Profile
 
- Cybersecurity student with a focus on Web Application pentesting and Operational Security (OPSEC)
+
+Cybersecurity student with a focus on Web Application pentesting and Operational Security (OPSEC)
+
 ---
 
 ## Stack
