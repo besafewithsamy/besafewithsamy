@@ -5,10 +5,10 @@ Researcher • Web Developer • Web Pentester • OPSEC
 
 ---
 
-## About
+## Profile
 
-Security-minded developer focused on building clean web systems and breaking insecure ones.  
-Interested in web application security, offensive testing, operational security, and low-level understanding of systems.
+Security-oriented developer focused on building reliable systems and auditing insecure ones.  
+Work centered on web exploitation, defensive engineering, operational security, and low-level technical understanding.
 
 ---
 
@@ -16,11 +16,64 @@ Interested in web application security, offensive testing, operational security,
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
+
+### Security & Systems
+<p>
+  <img src="https://img.shields.io/badge/Web_Pentesting-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OPSEC-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=besafewithsamy&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600&v=2"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besafewithsamy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600&v=2"/>
+</p>
+
+---
+
+## Metrics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=besafewithsamy&theme=tokyonight&v=2"/>
+</p>
+
+---
+
+## Focus Areas
+
+- Web application security  
+- Offensive testing and recon  
+- Secure architecture  
+- Privacy and operational discipline  
+- Python automation  
+
+---
+
+## Links
+
+<p>
+  <a href="https://github.com/besafewithsamy">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+minimal code • secure systems • disciplined ops
+</p></p>
 
 ### Security
 <p>
