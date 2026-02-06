@@ -5,9 +5,7 @@
 
 ## Profile
 
-Security-oriented developer focused on building reliable web systems and auditing insecure ones.
-Interests include web exploitation, secure engineering, operational security, and automation.
-
+ Cybersecurity student with a focus on Web Application pentesting and Operational Security (OPSEC)
 ---
 
 ## Stack
@@ -50,7 +48,6 @@ Interests include web exploitation, secure engineering, operational security, an
 
 - Web application security
 - Recon and exploitation methodology
-- Secure architecture and defensive engineering
 - Privacy and operational discipline
 - Python automation
 
@@ -64,4 +61,3 @@ Interests include web exploitation, secure engineering, operational security, an
   </a>
 </p>
 
-<p align="center">minimal code • secure systems • disciplined ops</p>
